@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # React project
 
-Simple react project for fectching videos from Youtube Api and Search function.
+Simple react project for fectching videos from Youtube Api and Seach funct.
 
 ### Getting Started
 
@@ -26,7 +25,4 @@ Click (https://github.com/sathiyaanbu/React) then download the .zip file. Extrac
 > npm install
 > npm start
 ```
-=======
 
-Fetching Youtube videos using React
->>>>>>> 4deeefb99947a6340533ff16344978c77d55cf3b
