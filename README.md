@@ -1,6 +1,6 @@
 # React project
 
-Simple react project for fectching videos from Youtube Api and Seach funct.
+Simple react project for fetching videos from Youtube Api and Search function.
 
 ### Getting Started
 
